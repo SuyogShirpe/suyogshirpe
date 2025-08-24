@@ -5,7 +5,7 @@
 <!-- 🌟 Typing Effect -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=FF4B81&center=true&vCenter=true&width=600&lines=💻+Software+Developer;🌐+Web+Enthusiast;⚡+Passionate+About+Building+Web+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FF4B81&center=true&vCenter=true&width=600&lines=+Software+Developer;+Web+Enthusiast;+Passionate+About+Building+Web+Applications" alt="Typing SVG" />
   </a>
 </p>
 
@@ -29,6 +29,11 @@ I'm **Suyog Shirpe**, a software developer passionate about building engaging an
 ### 🖥️ Programming Languages  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=javascript,java" height="40" />
+</p>
+
+### 🚀 Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github" height="40" />
 </p>
 
 ---
