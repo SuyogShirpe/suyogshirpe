@@ -21,29 +21,32 @@ I'm **Suyog Shirpe**, a software developer passionate about building engaging an
 
 ## 💻 Tech Stack
 
-### 🚀 Frontend Development  
+### 🚀 Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" height="40" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" title="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" title="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React" />
 </p>
 
-### 🖥️ Programming Languages  
+### 🖥️ Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,java" height="40" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" title="Java" />
 </p>
 
-### 🚀 Tools  
+### 🖥️ Database Management
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" title="MySQL" />
 </p>
 
----
-
-## 🌐 Connect With Me  
+### 🚀 Tools
 <p align="left">
-  <a href="https://www.linkedin.com/in/suyog-shirpe" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub" />
 </p>
+
 
 ---
 
@@ -55,9 +58,10 @@ I'm **Suyog Shirpe**, a software developer passionate about building engaging an
 
 ---
 
-## 🔥 Contribution Activity  
+## 🔥 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suyogshirpe&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=suyogshirpe&theme=radical" alt="GitHub Streak Stats" />
 </p>
+
 
 ---
